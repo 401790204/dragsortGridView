@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewGroup</string>
+    <string name="action_settings">Settings</string>
+</resources>
